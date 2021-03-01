@@ -4,6 +4,11 @@ This module is largely a refactoring and port of the original
 [django-readwrite](https://github.com/apnarm/django-readwrite) module, bring it into contemporary python and django 
 versions.
 
+---
+**NOTE**
+Status: this is a work in progress and is probably not usable (yet).
+---
+
 ### From the original README (with edits)
 Read/write database splitting for Django, based on the HTTP request method.
 
